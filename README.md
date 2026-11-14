@@ -6,4 +6,4 @@ At Mercado Libre, I work on shared frontend foundations, building tools and comp
 
 I’m also the founder of [Spärck](https://sparck.com.ar), a community that connects people and knowledge through events and resources.
 
-[LinkedIn](https://www.linkedin.com/in/lautaroamengual) · [Spärck](https://sparck.com.ar)
+[Website](https://lna.dev) · [LinkedIn](https://www.linkedin.com/in/lautaroamengual) · [Spärck](https://sparck.com.ar)
